@@ -1,8 +1,8 @@
 ﻿namespace LeetCode;
 
-class _1768_MergeStringsAlternately
+class MergeStringsAlternately
 {
-    /*
+	/*
     
     Two index approach. Create an index for each word. Create a while loop.
 
@@ -12,29 +12,29 @@ class _1768_MergeStringsAlternately
     Space Complexity: O(1)
 
      */
-    public string MergeAlternatelyIndexes(string word1, string word2)
-    {
-        string word = string.Empty;
-        int length1 = word1.Length;
-        int length2 = word2.Length;
-        int index1 = 0;
-        int index2 = 0;
+	public string MergeAlternatelyIndexes(string word1, string word2)
+	{
+		string word = string.Empty;
+		int length1 = word1.Length;
+		int length2 = word2.Length;
+		int index1 = 0;
+		int index2 = 0;
 
-        while (index1 < length1 || index2 < length2)
-        {
-            if (index1 < length1)
-            {
-                word += word1[index1];
-                index1++;
-            }
+		while (index1 < length1 || index2 < length2)
+		{
+			if (index1 < length1)
+			{
+				word += word1[index1];
+				index1++;
+			}
 
-            if (index2 < length2)
-            {
-                word += word2[index2];
-                index2++;
-            }
-        }
+			if (index2 < length2)
+			{
+				word += word2[index2];
+				index2++;
+			}
+		}
 
-        return word;
-    }
+		return word;
+	}
 }
