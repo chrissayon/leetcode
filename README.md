@@ -6,6 +6,7 @@
 | --- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 01  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                      | [C#](./CSharp/LeetCode/0001_0099/0001_TwoSum.cs) [JS](./JavaScript/0001_0099/0001_TwoSum.js)                        | Easy       |
 | 28  | [Find The Index Of the First Occurence In A String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C#](./CSharp/LeetCode/0001_0099/0028_IndexOfFirstOccurenceInString.cs) [JS](./JavaScript/0001_0099/0001_TwoSum.js) | Easy       |
+| 66  | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                    | [C#](./CSharp/LeetCode/0001_0099/0066_PlusOne.cs) [JS](./JavaScript/0001_0099/0066_PlusOne.js)                      | Easy       |
 
 | #   | Title                                                         | Solution                                                                                                 | Difficulty |
 | --- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------- |
