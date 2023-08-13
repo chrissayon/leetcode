@@ -10,6 +10,7 @@
 | #   | Title                                                         | Solution                                                                                                 | Difficulty |
 | --- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------- |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C#](./CSharp/LeetCode/0200_0299/0242_ValidAnagram.cs) [JS](./JavaScript/0200_0299/0242_ValidAnagram.js) | Easy       |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)     | [C#](./CSharp/LeetCode/0200_0299/0283_MoveZeroes.cs) [JS](./JavaScript/0200_0299/0283_MoveZeroes.js)     | Easy       |
 
 | #   | Title                                                                     | Solution                                                                                                           | Difficulty |
 | --- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------- |
