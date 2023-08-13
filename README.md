@@ -15,6 +15,10 @@
 | --- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------- |
 | 389 | [Find The Difference](https://leetcode.com/problems/find-the-difference/) | [C#](./CSharp/LeetCode/0300_0399/0389_FindTheDIfference.cs) [JS](./JavaScript/0300_0399/0389_FindTheDifference.js) | Easy       |
 
+| #   | Title                                                                                   | Solution                                                                                                                         | Difficulty |
+| --- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [C#](./CSharp/LeetCode/0400_0499/0459_RepeatedSubstringPattern.cs) [JS](./JavaScript/0400_0499/0459_RepeatedSubstringPattern.js) | Easy       |
+
 | #    | Title                                                                                 | Solution                                                                                                                       | Difficulty |
 | ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C#](./CSharp/LeetCode/1700_1799/1768_MergeStringsAlternately.cs) [JS](./JavaScript/1700_1799/1768_MergeStringsAlternately.js) | Easy       |
