@@ -24,3 +24,7 @@
 | #    | Title                                                                                 | Solution                                                                                                                       | Difficulty |
 | ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C#](./CSharp/LeetCode/1700_1799/1768_MergeStringsAlternately.cs) [JS](./JavaScript/1700_1799/1768_MergeStringsAlternately.js) | Easy       |
+
+| #    | Title                                                                                             | Solution                                                                                                                           | Difficulty |
+| ---- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 1822 | [Sign Of The Product Of An Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C#](./CSharp/LeetCode/1800_1899/1822_SignOfTheProductOfAnArray.cs) [JS](./JavaScript/1800_1899/1822_SignOfTheProductOfAnArray.js) | Easy       |
