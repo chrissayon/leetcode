@@ -21,6 +21,10 @@
 | --- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [C#](./CSharp/LeetCode/0400_0499/0459_RepeatedSubstringPattern.cs) [JS](./JavaScript/0400_0499/0459_RepeatedSubstringPattern.js) | Easy       |
 
+| #   | Title                                                             | Solution                                                                                                     | Difficulty |
+| --- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------- |
+| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [C#](./CSharp/LeetCode/0800_0899/0896_MonotonicArray.cs) [JS](./JavaScript/0800_0899/0896_MonotonicArray.js) | Easy       |
+
 | #    | Title                                                                                 | Solution                                                                                                                       | Difficulty |
 | ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C#](./CSharp/LeetCode/1700_1799/1768_MergeStringsAlternately.cs) [JS](./JavaScript/1700_1799/1768_MergeStringsAlternately.js) | Easy       |
